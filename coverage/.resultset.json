@@ -1,0 +1,46 @@
+{
+  "Minitest": {
+    "coverage": {
+      "/workspaces/simplecov-bug-demo/lib/simplecov-bug-demo.rb": {
+        "lines": [
+          null,
+          null,
+          1,
+          null,
+          1,
+          null
+        ]
+      },
+      "/workspaces/simplecov-bug-demo/lib/simplecov-bug-demo/commands/command.rb": {
+        "lines": [
+          null,
+          null,
+          1,
+          1,
+          1,
+          1,
+          0,
+          0,
+          null,
+          null,
+          null,
+          null
+        ]
+      },
+      "/workspaces/simplecov-bug-demo/test/test_hermes.rb": {
+        "lines": [
+          null,
+          null,
+          1,
+          null,
+          1,
+          1,
+          0,
+          null,
+          null
+        ]
+      }
+    },
+    "timestamp": 1729784705
+  }
+}
